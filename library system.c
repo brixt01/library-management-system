@@ -1,5 +1,5 @@
 /*
-    Title: Library system
+    Title: library system.c
     Author: Ben Brixton
     Date created: 12/04/23
     Last modified: 30/04/23
@@ -61,7 +61,7 @@ void checkBooks(struct book *books, int *numRows, time_t current_date);
 // Main
 void main(void){
 
-    char fileName[] = "database.txt";       // File name to be read from
+    char fileName[] = "data.txt";       // File name to be read from
     int maxRowLength = 500;     // Max length for row in CSV file
     int maxRows = 100;      // Max number of rows in CSV file
     struct book books[maxRows];     // Array of structures for data to be read to

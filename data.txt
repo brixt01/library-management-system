@@ -3,3 +3,4 @@ index,title,author,pub_year,date_added,date_out,date_due,name
 1,To Kill a Mockingbird,Harper Lee,1960,1683472165,0,0,0
 2,The Lord of the Rings,J.R.R. Tolkein,1954,1683472165,0,0,0
 3,Harry Potter and the Philosopher's Stone,J.K. Rowling,1997,1683472165,0,0,0
+4,New book,New author,100,1704063600,1704063600,1704668400,Ben Brixton
