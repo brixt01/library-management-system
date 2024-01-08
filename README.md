@@ -1,5 +1,5 @@
 # library-management-system
-A library management system, using C
+A library management system, written in C
 
 ## Task
 
